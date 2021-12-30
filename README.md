@@ -19,3 +19,7 @@ Par exemple pour un vol Paris-Moscou, notre code de scrapping va récupérer les
 En utilisant la bibliothèque "pandas", nous avons formaté les données récupérées suite au scrapping.
 En effet, les données récupérées sont stockées sous forme de texte donc nous les avons converties en variables quantitatives.
 
+Avant             |  Après
+:-------------------------:|:-------------------------:
+![plot](<img width="521" alt="tableau_avant" src="https://user-images.githubusercontent.com/84531691/147737482-bd5692be-04cf-4cd7-aedc-651df79e16e4.PNG">
+)|![plot](<img width="456" alt="tableau_apres" src="https://user-images.githubusercontent.com/84531691/147737518-e66277b1-6a9a-44e3-8e7e-1453dd6a1608.PNG">)
