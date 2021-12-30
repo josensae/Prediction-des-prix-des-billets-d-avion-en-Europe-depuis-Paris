@@ -20,6 +20,13 @@ En utilisant la bibliothèque "pandas", nous avons formaté les données récup�
 En effet, les données récupérées sont stockées sous forme de texte donc nous les avons converties en variables quantitatives.
 
 Avant             |  Après
-:-------------------------:|:-------------------------:
-![plot](<img width="521" alt="tableau_avant" src="https://user-images.githubusercontent.com/84531691/147737482-bd5692be-04cf-4cd7-aedc-651df79e16e4.PNG">
-)|![plot](<img width="456" alt="tableau_apres" src="https://user-images.githubusercontent.com/84531691/147737518-e66277b1-6a9a-44e3-8e7e-1453dd6a1608.PNG">)
+-------------------------|-------------------------
+<img width="521" alt="tableau_avant" src="https://user-images.githubusercontent.com/84531691/147737482-bd5692be-04cf-4cd7-aedc-651df79e16e4.PNG">|<img width="456" alt="tableau_apres" src="https://user-images.githubusercontent.com/84531691/147737518-e66277b1-6a9a-44e3-8e7e-1453dd6a1608.PNG">
+
+## 3. DataVizualisation
+
+Après avoir récupéré et formaté les données, nous sommes passés à l'étape de dataviz, pour donner du sens aux variables sélectionnées.
+
+## 4. Modélisation
+
+A partir des données sur les vols et en utilisant la bibiliothèque Scickit, nous avons un modèle capable de prédire les prix des billets d'avion d'un aller-retour Paris avec une des 5 destinations européennes.
