@@ -29,4 +29,4 @@ Après avoir récupéré et formaté les données, nous sommes passés à l'éta
 
 ## 4. Modélisation
 
-A partir des données sur les vols et en utilisant la bibiliothèque Scickit, nous avons un modèle capable de prédire les prix des billets d'avion d'un aller-retour Paris avec une des 5 destinations européennes. Nous l'avons ensuite complété par un modèle de deep learning en utilisant tensorflow et Keras qui nous a permis de faire un peu mieux en terme d'explicabilité que le modèle précédent. 
+A partir des données sur les vols et en utilisant la bibiliothèque Scickit, nous avions créé un modèle capable de prédire les prix des billets d'avion d'un aller-retour Paris avec une des 5 destinations européennes. Nous l'avons ensuite complété par un modèle de deep learning en utilisant tensorflow et Keras, que nous avons trouvé plus perfomant en terme de prédiction.
