@@ -1,6 +1,6 @@
 # Projet-Python-pour-le-Data-Scientist
 
-Bienvenu sur le Github de notre projet Python Pour le Data Scientist:
+Bienvenue sur le Github de notre projet Python Pour le Data Scientist:
 
 L'objectif du projet est de prédire les prix de billets d'avions entre Paris et 5 destinations (Londres, Moscou, Oslo, Madrid et Athènes) pour des allers-retours d'une semaine entre début avril et fin septembre 2022. 
 
@@ -13,6 +13,7 @@ Par exemple pour un vol Paris-Moscou, notre code de scrapping va récupérer les
 
 ![Kayak_image_Scrap](https://user-images.githubusercontent.com/84531691/147736791-ef41ba06-b442-48b0-b5dc-88ef68dd8906.png)
 
+La base issue du Webscrapping est appelée "data_combined" et disponible dans le repo en format excel.
 
 ## 2. La Manipulation de données
 
@@ -22,6 +23,8 @@ En effet, les données récupérées sont stockées sous forme de texte donc nou
 Avant             |  Après
 -------------------------|-------------------------
 <img width="521" alt="tableau_avant" src="https://user-images.githubusercontent.com/84531691/147737482-bd5692be-04cf-4cd7-aedc-651df79e16e4.PNG">|<img width="456" alt="tableau_apres" src="https://user-images.githubusercontent.com/84531691/147737518-e66277b1-6a9a-44e3-8e7e-1453dd6a1608.PNG">
+
+La base nettoyée/formatée est appelée "base à traiter" disponible dans le repo en format excel.
 
 ## 3. DataVizualisation
 
