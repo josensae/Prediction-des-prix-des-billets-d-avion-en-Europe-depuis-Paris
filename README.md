@@ -13,7 +13,11 @@ Par exemple pour un vol Paris-Moscou, notre code de scrapping va récupérer les
 
 ![Kayak_image_Scrap](https://user-images.githubusercontent.com/84531691/147736791-ef41ba06-b442-48b0-b5dc-88ef68dd8906.png)
 
-La base issue du Webscrapping est appelée "data_combined" et disponible dans le repo en format excel.
+Les datasets scrappés par ville sous format excel (oslo.xlsx, moscou.xlsx, madrid.xlsx, londres.xlsx, athenes.xlsx) se trouvent ici : https://drive.google.com/drive/folders/19zj_umvlCGCT2EgmMIi4YzMnp9zqjGqL
+
+La base issue du Webscrapping(combinaison des fichiers précédents) est appelée "data_combined" et disponible dans le repo en format excel.
+
+
 
 ## 2. La Manipulation de données
 
