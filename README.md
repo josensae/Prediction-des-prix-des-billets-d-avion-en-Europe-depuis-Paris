@@ -1,4 +1,4 @@
-# Projet-Python-pour-le-Data-Scientist
+# Prédiction du prix des billets d'avions en Europe depuis Paris
 
 Bienvenue sur le Github de notre projet Python Pour le Data Scientist:
 
